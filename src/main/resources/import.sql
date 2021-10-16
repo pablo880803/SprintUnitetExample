@@ -1,0 +1,1 @@
+insert into category(name,description,hasLength) values ("pablo","pablo",true);
